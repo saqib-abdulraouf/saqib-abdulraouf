@@ -42,14 +42,16 @@
 - 🐳 **Deploying:** FastAPI backends with Docker containers
 - 📖 **Sharing:** Open-source projects & learnings on GitHub
 
+<br/>
+
 ![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
 
 </td>
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" />
 
 
 ```yaml
@@ -187,7 +189,6 @@
 ---
 
 ## 📈 Contribution Graph
-[![GitHub Trophies](https://vercel.app)](href="https://github.com/saqib-abdulraouf")
 
 <div align="center">
 
