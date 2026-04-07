@@ -32,7 +32,6 @@
 <td width="55%">
 
 ### 🎯 Who Am I?
-
 > *Passionate AI Engineer studying at **PIAIC**, building intelligent systems that transform how people interact with technology.*
 
 - 🤖 **Building:** Autonomous AI Agents using LLMs, tools & memory
@@ -44,9 +43,7 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
-&nbsp;
 ![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
-&nbsp;
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
 
 </td>
@@ -56,14 +53,15 @@
 
 
 ```yaml
+
 📍 Location:   Pakistan
 🎓 Institute:  PIAIC
 💻 Role:       AI Engineer
 🔭 Focus:      Agentic AI
 🌐 Stack:      Python | FastAPI | Docker
 🤝 Status:     Open for Collaboration!
-```
 
+```
 </td>
 </tr>
 </table>
