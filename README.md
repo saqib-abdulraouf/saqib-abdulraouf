@@ -40,8 +40,8 @@
 - 🐳 **Deploying:** FastAPI backends with Docker containers
 - 📖 **Sharing:** Open-source projects & learnings on GitHub
 
-![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)<br/>
+![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)<br/>
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
 
 </td>
@@ -49,17 +49,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
 
-
-```yaml
-
-📍 Location:  Pakistan
-🎓 Institute:  PIAIC 
-💻 Role:  AI Engineer
-🔭 Focus:  Agentic AI
-🌐 Stack:  Python | FastAPI | Docker
-🤝 Status:  Open for Collaboration!
-
-```
+<div align="left">
+<pre>
+📍 <b>Location:</b>  Pakistan
+🎓 <b>Institute:</b> PIAIC 
+💻 <b>Role:</b>      AI Engineer
+🔭 <b>Focus:</b>     Agentic AI
+🌐 <b>Stack:</b>     Python | FastAPI | Docker
+🤝 <b>Status:</b>    Open for Collaboration!
+</pre>
+</div>
 </td>
 </tr>
 </table>
@@ -71,43 +70,15 @@
 ## 🗺️ My Journey
 
 <div align="center">
-<table width="100%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/STEP_1-0d1117?style=for-the-badge" /><br/>
-<img width="50" src="https://skillicons.dev/icons?i=html,css,js&perline=3" /><br/>
-<sub><b>🌐 Frontend Dev</b></sub><br/>
-<sub>HTML • CSS • JS</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/→-6C63FF?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/STEP_2-0d1117?style=for-the-badge" /><br/>
-<img width="35" src="https://skillicons.dev/icons?i=python" /><br/>
-<sub><b>🐍 Python & AI</b></sub><br/>
-<sub>Scripting • Logic</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/→-8C83FF?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/STEP_3-0d1117?style=for-the-badge" /><br/>
-<img width="50" src="https://skillicons.dev/icons?i=fastapi,docker&perline=2" /><br/>
-<sub><b>🤖 Agentic AI</b></sub><br/>
-<sub>LLMs • Agents • RAG</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/→-FF6B6B?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/STEP_4-0d1117?style=for-the-badge" /><br/>
-<img width="50" src="https://skillicons.dev/icons?i=gcp,kubernetes&perline=2" /><br/>
-<sub><b>🚀 Cloud & Scale</b></sub><br/>
-<sub>APIs • Deploy • DevOps</sub>
-</td>
-</tr>
-</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6C63FF&text=Frontend%20➔%20Python%20➔%20Agentic%20AI%20➔%20Cloud&height=70&fontSize=22&animation=fadeIn" alt="Journey Path" />
+<br/>
+
+| 🌐 **Frontend Roots** | 🐍 **Python & Logic** | 🤖 **Agentic AI** | 🚀 **Cloud & Scale** |
+|:---:|:---:|:---:|:---:|
+| `HTML` `CSS` `JS` | `Python` `Logic` | `LLMs` `RAG` `Agents` | `Docker` `GCP` |
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=fastapi,docker&theme=dark" /> | <img src="https://skillicons.dev/icons?i=gcp,kubernetes&theme=dark" /> |
+
 </div>
 
 ---
@@ -116,17 +87,22 @@
 
 <div align="center">
 
-#### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&perline=5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=500&height=50&lines=💻+Languages+and+Web+Development;🤖+AI+Agents,+LLMs,+and+Frameworks;🛠️+Deployment,+DevOps,+and+Cloud" alt="Tech Stack Categories" />
+<br/><br/>
 
-#### 🤖 AI & Machine Learning
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&theme=dark&perline=5" />
+<br/><br/>
+
+### 🤖 AI Agentic Toolkit
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<br/><br/>
 
-#### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=5" />
+### 🛠️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,git,github,vscode,linux&theme=dark&perline=7" />
 
 </div>
 
