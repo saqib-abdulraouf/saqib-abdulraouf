@@ -42,8 +42,6 @@
 - 🐳 **Deploying:** FastAPI backends with Docker containers
 - 📖 **Sharing:** Open-source projects & learnings on GitHub
 
-<br/>
-
 ![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
@@ -189,6 +187,7 @@
 ---
 
 ## 📈 Contribution Graph
+[![GitHub Trophies](https://vercel.app)](href="https://github.com/saqib-abdulraouf")
 
 <div align="center">
 
