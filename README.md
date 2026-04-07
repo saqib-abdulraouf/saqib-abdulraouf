@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
 ### 🎯 Who Am I?
 > *Passionate AI Engineer studying at **PIAIC**, building intelligent systems that transform how people interact with technology.*
@@ -45,21 +45,19 @@
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
 
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
 
 
 ```yaml
 
-<pre>
-📍 <b>Location:</b>   Pakistan
-🎓 <b>Institute:</b>  PIAIC
-💻 <b>Role:</b>       AI Engineer
-🔭 <b>Focus:</b>      Agentic AI
-🌐 <b>Stack:</b>      Python | FastAPI | Docker
-🤝 <b>Status:</b>     Open for Collaboration!
-</pre>
+📍 Location:  Pakistan
+🎓 Institute:  PIAIC 
+💻 Role:  AI Engineer
+🔭 Focus:  Agentic AI
+🌐 Stack:  Python | FastAPI | Docker
+🤝 Status:  Open for Collaboration!
 
 ```
 </td>
@@ -73,38 +71,38 @@
 ## 🗺️ My Journey
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="200">
+<td align="center">
 <img src="https://img.shields.io/badge/STEP_1-0d1117?style=for-the-badge" /><br/>
-<img width="60" src="https://skillicons.dev/icons?i=html,css,js&perline=3" /><br/>
+<img width="50" src="https://skillicons.dev/icons?i=html,css,js&perline=3" /><br/>
 <sub><b>🌐 Frontend Dev</b></sub><br/>
 <sub>HTML • CSS • JS</sub>
 </td>
-<td align="center" width="80">
+<td align="center">
 <img src="https://img.shields.io/badge/→-6C63FF?style=for-the-badge" />
 </td>
-<td align="center" width="200">
+<td align="center">
 <img src="https://img.shields.io/badge/STEP_2-0d1117?style=for-the-badge" /><br/>
-<img width="40" src="https://skillicons.dev/icons?i=python" /><br/>
+<img width="35" src="https://skillicons.dev/icons?i=python" /><br/>
 <sub><b>🐍 Python & AI</b></sub><br/>
 <sub>Scripting • Logic</sub>
 </td>
-<td align="center" width="80">
+<td align="center">
 <img src="https://img.shields.io/badge/→-8C83FF?style=for-the-badge" />
 </td>
-<td align="center" width="200">
+<td align="center">
 <img src="https://img.shields.io/badge/STEP_3-0d1117?style=for-the-badge" /><br/>
-<img width="60" src="https://skillicons.dev/icons?i=fastapi,docker&perline=2" /><br/>
+<img width="50" src="https://skillicons.dev/icons?i=fastapi,docker&perline=2" /><br/>
 <sub><b>🤖 Agentic AI</b></sub><br/>
 <sub>LLMs • Agents • RAG</sub>
 </td>
-<td align="center" width="80">
+<td align="center">
 <img src="https://img.shields.io/badge/→-FF6B6B?style=for-the-badge" />
 </td>
-<td align="center" width="200">
+<td align="center">
 <img src="https://img.shields.io/badge/STEP_4-0d1117?style=for-the-badge" /><br/>
-<img width="60" src="https://skillicons.dev/icons?i=gcp,kubernetes&perline=2" /><br/>
+<img width="50" src="https://skillicons.dev/icons?i=gcp,kubernetes&perline=2" /><br/>
 <sub><b>🚀 Cloud & Scale</b></sub><br/>
 <sub>APIs • Deploy • DevOps</sub>
 </td>
@@ -159,7 +157,6 @@
 <a href="https://github.com/saqib-abdulraouf">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/saqib-abdulraouf">
   <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 </a>
