@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -38,19 +38,42 @@
 
 ## 🗺️ My Journey
 
-```mermaid
-graph LR
-    A[🌐 Frontend Dev] -->|HTML CSS JS| B[🧩 Interactive Projects]
-    B -->|Problem Solving| C[🐍 Python & AI]
-    C -->|LLMs & Agents| D[🤖 Agentic AI]
-    D -->|APIs & Cloud| E[🚀 Full-Stack AI Engineer]
-    
-    style A fill:#6C63FF,stroke:#333,color:#fff
-    style B fill:#7C73FF,stroke:#333,color:#fff
-    style C fill:#8C83FF,stroke:#333,color:#fff
-    style D fill:#9C93FF,stroke:#333,color:#fff
-    style E fill:#FF6B6B,stroke:#333,color:#fff
-```
+<div align="center">
+
+🌐 **Frontend Development**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+⬇️
+
+🧩 **Interactive Web Projects & Problem Solving**
+
+⬇️
+
+🐍 **Python & Artificial Intelligence**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+⬇️
+
+🤖 **Agentic AI & LLM Systems**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+
+⬇️
+
+🚀 **Full-Stack AI Engineer**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -137,7 +160,7 @@ graph LR
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-abdulraouf/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibabdulraouf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](saqibabdulraouf@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqib-abdulraouf)
 
 <br/>
