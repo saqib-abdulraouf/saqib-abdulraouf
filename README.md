@@ -7,10 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Autonomous+AI+Agents;%F0%9F%9A%80+Crafting+Intelligent+APIs+with+FastAPI;%F0%9F%A7%A0+Exploring+LLMs+%26+Agentic+Systems;%F0%9F%92%BC+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 </a>
-
 <!-- Profile Badges -->
-<br/>
-
 <a href="https://github.com/saqib-abdulraouf">
   <img src="https://komarev.com/ghpvc/?username=saqib-abdulraouf&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 </a>
@@ -53,6 +50,9 @@
 
 </td>
 <td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
+
 
 ```yaml
 📍 Location:   Pakistan
