@@ -3,10 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:FF6B6B&height=200&section=header&text=Saqib%20AbdulRaouf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%E2%9A%A1%20Agent%20Builder%20%E2%9A%A1%20Full-Stack%20Developer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Autonomous+AI+Agents;%F0%9F%9A%80+Crafting+Intelligent+APIs+with+FastAPI;%F0%9F%A7%A0+Exploring+LLMs+%26+Agentic+Systems;%F0%9F%92%BC+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
-</a>
 <!-- Profile Badges -->
 <a href="https://github.com/saqib-abdulraouf">
   <img src="https://komarev.com/ghpvc/?username=saqib-abdulraouf&style=for-the-badge&color=6C63FF" alt="Profile Views" />
@@ -18,6 +14,12 @@
 &nbsp;
 <a href="https://github.com/saqib-abdulraouf?tab=repositories">
   <img src="https://img.shields.io/github/stars/saqib-abdulraouf?style=for-the-badge&color=FF6B6B&labelColor=1a1b27&logo=github" alt="Stars" />
+</a>
+
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Autonomous+AI+Agents;%F0%9F%9A%80+Crafting+Intelligent+APIs+with+FastAPI;%F0%9F%A7%A0+Exploring+LLMs+%26+Agentic+Systems;%F0%9F%92%BC+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 </a>
 
 </div>
