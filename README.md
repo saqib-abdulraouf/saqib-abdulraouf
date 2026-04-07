@@ -25,43 +25,59 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🧑‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" /> &nbsp; About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%" valign="top">
 
-### 🎯 Who Am I?
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="60" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25" /> &nbsp; Who Am I?
 
 > *Passionate AI Engineer studying at **PIAIC**, building intelligent systems that transform how people interact with technology.*
 
-- 🤖 **Building:** Autonomous AI Agents using LLMs, tools & memory
-- 🧠 **Learning:** Agentic AI & Cloud Native technologies
-- ⚡ **Creating:** Python-based AI automation workflows
-- 🐳 **Deploying:** FastAPI backends with Docker containers
-- 📖 **Sharing:** Open-source projects & learnings on GitHub
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="20" /> **Building:** Autonomous AI Agents with LLMs, tools & memory
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20" /> **Learning:** Agentic AI & Cloud Native technologies
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> **Creating:** Python-based AI automation workflows
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> **Deploying:** FastAPI backends with Docker containers
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" /> **Sharing:** Open-source projects & learnings
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="25" /> &nbsp; Quick Info
+
+```js
+const saqib = {
+    location:  "🇵🇰 Pakistan",
+    institute: "🎓 PIAIC",
+    role:      "🤖 AI Engineer",
+    focus:     "🧠 Agentic AI",
+    stack:     "🐍 Python | ⚡ FastAPI | 🐳 Docker",
+    status:    "💼 Open for Opportunities!",
+    motto:     "Build. Automate. Innovate."
+};
+```
 
 <br/>
 
-![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
-![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
-
-</td>
-<td width="45%" align="center">
-
-```yaml
-📍 Location:   Pakistan
-🎓 Institute:  PIAIC
-💻 Role:       AI Engineer
-🔭 Focus:      Agentic AI
-🌐 Stack:      Python | FastAPI | Docker
-🤝 Status:     Open for Collaboration!
-```
+<img src="https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/💼_Hiring-Open_to_Work-00C853?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -69,9 +85,10 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🗺️ My Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="30" /> &nbsp; My Journey
 
 <div align="center">
 <table>
@@ -113,46 +130,64 @@
 </table>
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp; Tech Stack & Tools
 
 <div align="center">
 
-#### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&perline=5" />
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi&perline=6" />
 
-#### 🤖 AI & Machine Learning
+<br/><br/>
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" /> AI & Machine Learning
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logoColor=white" />
 
-#### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=5" />
+<br/><br/>
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postgres&perline=6" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🤖 Featured AI Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" /> &nbsp; Featured AI Projects
+
+<div align="center">
+
+<a href="https://github.com/saqib-abdulraouf">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saqib-abdulraouf&repo=saqib-abdulraouf&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 | &nbsp; | Project | Description | Tech Stack |
 |:------:|:--------|:------------|:-----------|
-| 🎭 | **[Role Based Chatbot](https://github.com/saqib-abdulraouf)** | AI chatbot with Doctor, Lawyer & Teacher personas using dynamic system prompts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 📰 | **[News AI Agent](https://github.com/saqib-abdulraouf)** | Fetches & summarizes global news using autonomous AI agents | ![API](https://img.shields.io/badge/GNews_API-009688?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 📖 | **[AI Study Assistant](https://github.com/saqib-abdulraouf)** | Chat with any PDF/TXT document — quiz generation & smart Q&A | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 🔍 | **[Agentic RAG](https://github.com/saqib-abdulraouf)** | Smart document retrieval for large files using TF-IDF + RAG pipeline | ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 📝 | **[MCQ Generator](https://github.com/saqib-abdulraouf)** | Auto-generates MCQs from any uploaded PDF with difficulty levels | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 🌐 | **[AI API](https://github.com/saqib-abdulraouf)** | Production-ready REST API with chat, translate & summarize endpoints | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Performing%20Arts.png" width="25" /> | **[Role Based Chatbot](https://github.com/saqib-abdulraouf)** | AI chatbot with Doctor, Lawyer & Teacher personas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="25" /> | **[News AI Agent](https://github.com/saqib-abdulraouf)** | Fetches & summarizes global news with AI agents | ![API](https://img.shields.io/badge/GNews_API-009688?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> | **[AI Study Assistant](https://github.com/saqib-abdulraouf)** | Chat with PDF/TXT — quiz generation & smart Q&A | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25" /> | **[Agentic RAG](https://github.com/saqib-abdulraouf)** | Smart document retrieval using TF-IDF + RAG | ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> | **[MCQ Generator](https://github.com/saqib-abdulraouf)** | Auto-generates MCQs from uploaded PDFs | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="25" /> | **[AI API](https://github.com/saqib-abdulraouf)** | REST API with chat, translate & summarize endpoints | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -174,9 +209,10 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp; GitHub Trophies
 
 <div align="center">
 
@@ -186,9 +222,10 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📈 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> &nbsp; Contribution Graph
 
 <div align="center">
 
@@ -198,9 +235,10 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🤝 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> &nbsp; Connect with Me
 
 <div align="center">
 
@@ -219,9 +257,16 @@
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star%20Struck.png" width="40" />
+
 ### 💬 *"Building the future, one AI agent at a time."*
 
-📌 **Open to collaboration, freelance work, and learning opportunities!**
+<img src="https://img.shields.io/badge/📌_Open_to-Collaboration_•_Freelance_•_Learning-6C63FF?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
