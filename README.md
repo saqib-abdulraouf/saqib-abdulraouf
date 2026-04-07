@@ -211,19 +211,24 @@
 
 <div align="center">
 
-<a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-</a>
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+</picture>
 &nbsp;&nbsp;
+<!-- Streak Stats -->
 <a href="https://github.com/saqib-abdulraouf">
   <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</a>
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -233,9 +238,7 @@
 
 <div align="center">
 
-<a href="https://github.com/saqib-abdulraouf">
-  <img src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/saqib-abdulraouf)
 
 </div>
 
@@ -245,9 +248,7 @@
 
 <div align="center">
 
-<a href="https://github.com/saqib-abdulraouf">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" width="95%" alt="Contribution Graph" />
-</a>
+[![Saqib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF)](https://github.com/saqib-abdulraouf)
 
 </div>
 
