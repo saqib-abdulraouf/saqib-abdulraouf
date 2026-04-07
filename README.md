@@ -85,25 +85,28 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<br/>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=500&height=50&lines=💻+Languages+and+Web+Development;🤖+AI+Agents,+LLMs,+and+Frameworks;🛠️+Deployment,+DevOps,+and+Cloud" alt="Tech Stack Categories" />
-<br/><br/>
-
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&theme=dark&perline=5" />
-<br/><br/>
-
-### 🤖 AI Agentic Toolkit
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<br/><br/>
-
-### 🛠️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,git,github,vscode,linux&theme=dark&perline=7" />
-
+<table width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>💻 Languages & Web</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="34%" valign="top">
+      <h3>🤖 AI Agent Toolkit</h3>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🛠️ DevOps & Scale</h3>
+      <img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,git,github,vscode,linux&theme=dark&perline=2" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -188,8 +191,6 @@
 <a href="https://github.com/saqib-abdulraouf">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<br/><br/>
 
 ### 💬 *"Building the future, one AI agent at a time."*
 
