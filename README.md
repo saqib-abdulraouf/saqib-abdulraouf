@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:FF6B6B&height=200&section=header&text=Saqib%20AbdulRaouf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20⚡%20Agent%20Builder%20⚡%20Full-Stack%20Developer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:FF6B6B&height=200&section=header&text=Saqib%20AbdulRaouf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%E2%9A%A1%20Agent%20Builder%20%E2%9A%A1%20Full-Stack%20Developer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=🔥+Building+Autonomous+AI+Agents;🚀+Crafting+Intelligent+APIs+with+FastAPI;🧠+Exploring+LLMs+%26+Agentic+Systems;💼+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Autonomous+AI+Agents;%F0%9F%9A%80+Crafting+Intelligent+APIs+with+FastAPI;%F0%9F%A7%A0+Exploring+LLMs+%26+Agentic+Systems;%F0%9F%92%BC+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 </a>
 
 <!-- Profile Badges -->
@@ -27,7 +27,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
+## 🧑‍💻 About Me
 
 <div align="center">
 
@@ -126,7 +126,7 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 #### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=5" />
@@ -157,14 +157,20 @@
 <div align="center">
 
 <!-- GitHub Stats & Streak side-by-side -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<a href="https://github.com/saqib-abdulraouf">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
+</a>
 &nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+<a href="https://github.com/saqib-abdulraouf">
+  <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+<a href="https://github.com/saqib-abdulraouf">
+  <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -174,7 +180,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/saqib-abdulraouf)
+<a href="https://github.com/saqib-abdulraouf">
+  <img src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -184,23 +192,9 @@
 
 <div align="center">
 
-[![Saqib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF)](https://github.com/saqib-abdulraouf)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqib-abdulraouf/saqib-abdulraouf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saqib-abdulraouf/saqib-abdulraouf/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saqib-abdulraouf/saqib-abdulraouf/output/github-snake-dark.svg" />
-</picture>
-
-> 💡 *To enable the snake animation, add the [snake workflow](https://github.com/Platane/snk) to your profile repository's GitHub Actions.*
+<a href="https://github.com/saqib-abdulraouf">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
+</a>
 
 </div>
 
@@ -210,7 +204,7 @@
 
 <div align="center">
 
-<!-- TODO: Replace placeholders with your actual links -->
+<!-- TODO: Replace with your actual LinkedIn and Email -->
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
