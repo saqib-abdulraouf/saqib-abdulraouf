@@ -40,8 +40,6 @@
 - 🐳 **Deploying:** FastAPI backends with Docker containers
 - 📖 **Sharing:** Open-source projects & learnings on GitHub
 
-<br/>
-
 ![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
 ![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
@@ -75,34 +73,34 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" width="200">
 <img src="https://img.shields.io/badge/STEP_1-0d1117?style=for-the-badge" /><br/>
 <img width="60" src="https://skillicons.dev/icons?i=html,css,js&perline=3" /><br/>
 <sub><b>🌐 Frontend Dev</b></sub><br/>
 <sub>HTML • CSS • JS</sub>
 </td>
-<td align="center" width="50">
+<td align="center" width="80">
 <img src="https://img.shields.io/badge/→-6C63FF?style=for-the-badge" />
 </td>
-<td align="center" width="150">
+<td align="center" width="200">
 <img src="https://img.shields.io/badge/STEP_2-0d1117?style=for-the-badge" /><br/>
 <img width="40" src="https://skillicons.dev/icons?i=python" /><br/>
 <sub><b>🐍 Python & AI</b></sub><br/>
 <sub>Scripting • Logic</sub>
 </td>
-<td align="center" width="50">
+<td align="center" width="80">
 <img src="https://img.shields.io/badge/→-8C83FF?style=for-the-badge" />
 </td>
-<td align="center" width="150">
+<td align="center" width="200">
 <img src="https://img.shields.io/badge/STEP_3-0d1117?style=for-the-badge" /><br/>
 <img width="60" src="https://skillicons.dev/icons?i=fastapi,docker&perline=2" /><br/>
 <sub><b>🤖 Agentic AI</b></sub><br/>
 <sub>LLMs • Agents • RAG</sub>
 </td>
-<td align="center" width="50">
+<td align="center" width="80">
 <img src="https://img.shields.io/badge/→-FF6B6B?style=for-the-badge" />
 </td>
-<td align="center" width="150">
+<td align="center" width="200">
 <img src="https://img.shields.io/badge/STEP_4-0d1117?style=for-the-badge" /><br/>
 <img width="60" src="https://skillicons.dev/icons?i=gcp,kubernetes&perline=2" /><br/>
 <sub><b>🚀 Cloud & Scale</b></sub><br/>
