@@ -168,6 +168,37 @@
 <a href="https://github.com/saqib-abdulraouf">
   <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </a>
+# 📊 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Trophies: Achievements dikhane ke liye -->
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="github trophies" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <!-- GitHub Stats Card -->
+      <img src="https://vercel.app" alt="Saqib's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <!-- GitHub Streak Stats -->
+      <img src="https://herokuapp.com" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <!-- Most Used Languages Card -->
+  <img src="https://vercel.app" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph (Pichle 31 dinon ka graph) -->
+  <img src="https://vercel.app" width="100%" />
+</p>
 
 </div>
 
