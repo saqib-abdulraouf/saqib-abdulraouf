@@ -27,25 +27,59 @@
 
 <br/>
 
-<!-- About Me with GIF -->
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
 
-## ⚡ About Me
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
+
+### 🎯 Who Am I?
+
+> *Passionate AI Engineer Student at **PIAIC**, building intelligent systems that change how people interact with technology.*
+
+<br/>
+
+🤖 **Currently Building:** Autonomous AI Agents using LLMs, tools & memory
+
+🧠 **Learning:** Agentic AI & Cloud Native technologies
+
+⚡ **Creating:** Python-based AI automation workflows
+
+🐳 **Deploying:** FastAPI backends with Docker containers
+
+📖 **Sharing:** Projects & learnings on GitHub
+
+<br/>
+
+![Status](https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117)
+
+![Focus](https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117)
+
+![Open](https://img.shields.io/badge/💼_Hiring-Open_to_Opportunities-00C853?style=for-the-badge&labelColor=0D1117)
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
+
+<br/><br/>
 
 ```yaml
-name: Saqib AbdulRaouf
-role: AI Engineer Student @ PIAIC
-focus: Agentic AI & Cloud Native
-status: Open to Job & Freelance 💼
+📍 Location:  Pakistan
+🎓 Institute:  PIAIC 
+💻 Role:  AI Engineer
+🔭 Focus:  Agentic AI
+🌐 Stack:  Python | FastAPI | Docker
+🤝 Status:  Open for Collaboration!
 ```
 
-- 🤖 Building **Autonomous AI Agents** using LLMs, tools & memory
-- 🧠 Currently mastering **Agentic AI & Cloud Native**
-- ⚡ Creating **Python-based AI automation** workflows
-- 🐳 Deploying with **FastAPI + Docker** pipelines
-- 📚 Sharing projects & learnings publicly on GitHub
+</td>
+</tr>
+</table>
 
-<br clear="both"/>
+</div>
 
 ---
 
