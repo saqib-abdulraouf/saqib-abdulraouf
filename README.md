@@ -1,239 +1,185 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6C63FF,100:FF6B6B&height=300&section=header&text=Saqib%20Abdul%20Raouf&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agent%20Architect%20%7C%20Builder&descSize=20&descAlignY=60&descColor=c9d1d9&stroke=6C63FF&strokeWidth=2" width="100%" />
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+AI+Engineer+%40+PIAIC;%24+cat+skills.txt+%E2%86%92+Python+%7C+FastAPI+%7C+LLMs;%24+status+%E2%86%92+Building+Autonomous+AI+Agents;%24+echo+%22Open+to+opportunities%22)](https://git.io/typing-svg)
-
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=230&section=header&text=Saqib%20Abdul%20Raouf&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=fff" width="100%" />
 
 <br/>
 
-<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A5+Building+Autonomous+AI+Agents;%F0%9F%9A%80+Crafting+Intelligent+APIs+with+FastAPI;%F0%9F%A7%A0+Exploring+LLMs+%26+Agentic+Systems;%F0%9F%92%BC+Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" /></a>
 
-```js
-// 👨‍💻 saqib-abdulraouf/about.js
+<br/>
 
-class AIEngineer {
-    constructor() {
-        this.name     = "Saqib Abdul Raouf";
-        this.role     = "AI Engineer & Agent Builder";
-        this.location = "Pakistan 🇵🇰";
-        this.institute = "PIAIC (Presidential Initiative for AI & Computing)";
-    }
+<a href="https://github.com/saqib-abdulraouf"><img src="https://komarev.com/ghpvc/?username=saqib-abdulraouf&style=for-the-badge&color=6C63FF" alt="Profile Views" /></a>
+<a href="https://github.com/saqib-abdulraouf?tab=followers"><img src="https://img.shields.io/github/followers/saqib-abdulraouf?style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github" alt="Followers" /></a>
+<a href="https://github.com/saqib-abdulraouf?tab=repositories"><img src="https://img.shields.io/github/stars/saqib-abdulraouf?style=for-the-badge&color=FF6B6B&labelColor=1a1b27&logo=github" alt="Stars" /></a>
 
-    get skills() {
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="120"/>
+
+```python
+class SaqibAbdulRaouf:
+
+    def __init__(self):
+        self.name = "Saqib Abdul Raouf"
+        self.role = "AI Engineer & Agent Builder"
+        self.location = "Pakistan 🇵🇰"
+        self.education = "PIAIC (Presidential Initiative for AI & Computing)"
+
+    def get_skills(self):
         return {
-            languages:  ["Python", "JavaScript", "TypeScript"],
-            ai_tools:   ["OpenAI", "LangChain", "Groq", "Google Gemini", "CrewAI"],
-            backend:    ["FastAPI", "REST APIs", "WebSockets"],
-            devops:     ["Docker", "Git", "Linux", "CI/CD"],
-            databases:  ["PostgreSQL", "SQLite", "ChromaDB"],
-            currently:  "Building Autonomous AI Agents with memory & tool-use"
-        };
-    }
+            "languages":  ["Python", "JavaScript", "TypeScript"],
+            "ai_stack":   ["OpenAI", "LangChain", "Groq", "Gemini", "CrewAI"],
+            "backend":    ["FastAPI", "REST APIs", "WebSockets"],
+            "devops":     ["Docker", "Git", "Linux", "CI/CD"],
+            "databases":  ["PostgreSQL", "SQLite", "ChromaDB"],
+        }
 
-    get contact() {
-        return {
-            github:   "github.com/saqib-abdulraouf",
-            linkedin: "linkedin.com/in/saqib-abdulraouf",
-            email:    "saqib@example.com"
-        };
-    }
-}
+    def get_current_focus(self):
+        return "Building Autonomous AI Agents with memory & tool-use 🤖"
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════ WHAT I DO ═══════════════════════════════ -->
+<div align="center">
+<img src="https://img.shields.io/badge/🔥_Status-Building_AI_Agents-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Agentic_AI_&_LLMs-6C63FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00C853?style=for-the-badge&labelColor=0D1117"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_WHAT_I_DO-0D1117?style=for-the-badge&labelColor=0D1117" />
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi&theme=dark" />
 
-<br/><br/>
+### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logoColor=white"/>
 
-<table>
-<tr>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/🤖_AI_Agents-6C63FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub>Building autonomous agents that<br/>think, plan, and execute using<br/>LLMs + tools + memory</sub>
-</td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/🧠_RAG_Systems-8C83FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub>Smart document retrieval with<br/>vector search, TF-IDF, and<br/>contextual AI responses</sub>
-</td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/🚀_AI_APIs-FF6B6B?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub>Production-ready FastAPI backends<br/>with Docker deployment,<br/>auth & rate limiting</sub>
-</td>
-</tr>
-</table>
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postgres&theme=dark" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🛠️_TECH_STACK-0D1117?style=for-the-badge&labelColor=0D1117" />
+[![Role Based Chatbot](https://img.shields.io/badge/🎭_Role_Based_Chatbot-AI_chatbot_with_Doctor,_Lawyer_&_Teacher_personas-6C63FF?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="35" /> |
-| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square) |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=dark" height="35" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" height="35" /> |
+---
+
+[![News AI Agent](https://img.shields.io/badge/📰_News_AI_Agent-Autonomous_agent_that_fetches_&_summarizes_global_news-8C83FF?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GNews](https://img.shields.io/badge/GNews_API-009688?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+---
+
+[![AI Study Assistant](https://img.shields.io/badge/📖_AI_Study_Assistant-Chat_with_PDF/TXT_+_Quiz_Generation_+_Smart_Q&A-FF6B6B?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+---
+
+[![Agentic RAG](https://img.shields.io/badge/🔍_Agentic_RAG-Smart_document_retrieval_using_TF--IDF_+_RAG_pipeline-6C63FF?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+---
+
+[![MCQ Generator](https://img.shields.io/badge/📝_MCQ_Generator-Auto--generate_MCQs_from_uploaded_PDFs-8C83FF?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+---
+
+[![AI API](https://img.shields.io/badge/🌐_AI_API-Production--ready_REST_API_with_chat,_translate_&_summarize-FF6B6B?style=for-the-badge&labelColor=0D1117)](https://github.com/saqib-abdulraouf)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔥_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 [Role Based Chatbot](https://github.com/saqib-abdulraouf)
-AI chatbot that dynamically switches between **Doctor**, **Lawyer** & **Teacher** personas with contextual memory.
-
-`Python` `Groq` `Streamlit` `Prompt Engineering`
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 [News AI Agent](https://github.com/saqib-abdulraouf)
-Autonomous agent that fetches, filters, and summarizes **global news** from multiple sources in real-time.
-
-`Python` `GNews API` `Groq` `Agentic AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 [AI Study Assistant](https://github.com/saqib-abdulraouf)
-Upload any **PDF/TXT** → Ask questions, generate quizzes, and get AI-powered explanations instantly.
-
-`Python` `PyPDF2` `Groq` `RAG`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [Agentic RAG](https://github.com/saqib-abdulraouf)
-Intelligent document retrieval using **TF-IDF + RAG pipeline** for accurate answers from large files.
-
-`Python` `TF-IDF` `Groq` `Vector Search`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [MCQ Generator](https://github.com/saqib-abdulraouf)
-Auto-generates **multiple choice questions** from any uploaded PDF with configurable difficulty levels.
-
-`Python` `PyPDF2` `Groq` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [AI API](https://github.com/saqib-abdulraouf)
-Production-ready REST API with **chat, translate & summarize** endpoints. Dockerized and deployable.
-
-`FastAPI` `Docker` `Groq` `REST`
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Analytics
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/📊_GITHUB_STATS-0D1117?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
 
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true&rank_icon=github"/>
 </a>
-&nbsp;
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=rising-sun&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=FF6B6B&sideNums=6C63FF" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=555555"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6"/>
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/saqib-abdulraouf">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=c9d1d9&area=true&area_color=6C63FF" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=c9d1d9&area=true&area_color=58A6FF"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> Connect With Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤝_LET'S_CONNECT-0D1117?style=for-the-badge&labelColor=0D1117" />
+<a href="https://www.linkedin.com/in/saqib-abdulraouf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61575045398396"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://github.com/saqib-abdulraouf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<!-- TODO: Replace YOUR-LINKEDIN-USERNAME and your.email@gmail.com with actual values -->
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/saqib-abdulraouf">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   "The best way to predict the future is to build it."       ║
- ║                                                              ║
- ║   📌 Open to: Collaboration • Freelance • Opportunities      ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saqib-abdulraouf&style=flat-square&color=6C63FF&label=Profile+Views" />
+### ⚡ *"Building the future, one AI agent at a time."*
+
+📌 **Open to collaboration, freelance work, and learning opportunities!**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6C63FF,100:FF6B6B&height=150&section=footer&stroke=6C63FF&strokeWidth=2" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
