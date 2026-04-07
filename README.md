@@ -164,9 +164,6 @@
 <a href="https://github.com/saqib-abdulraouf">
   <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 </a>
-
-<br/><br/>
-
 <!-- Top Languages -->
 <a href="https://github.com/saqib-abdulraouf">
   <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
