@@ -52,12 +52,14 @@
 
 ```yaml
 
-📍 Location:   Pakistan
-🎓 Institute:  PIAIC
-💻 Role:       AI Engineer
-🔭 Focus:      Agentic AI
-🌐 Stack:      Python | FastAPI | Docker
-🤝 Status:     Open for Collaboration!
+<pre>
+📍 <b>Location:</b>   Pakistan
+🎓 <b>Institute:</b>  PIAIC
+💻 <b>Role:</b>       AI Engineer
+🔭 <b>Focus:</b>      Agentic AI
+🌐 <b>Stack:</b>      Python | FastAPI | Docker
+🤝 <b>Status:</b>     Open for Collaboration!
+</pre>
 
 ```
 </td>
