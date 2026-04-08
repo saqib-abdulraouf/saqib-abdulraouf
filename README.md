@@ -136,30 +136,27 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="170" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=FFFFFF" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=5" alt="Top Languages" />
-</a>
-<a href="https://github.com/saqib-abdulraouf">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=15" alt="GitHub Trophies" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=C9D1D9&langs_count=5" alt="Top Languages" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/saqib-abdulraouf">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=00000000&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
 </a>
 
 </div>
