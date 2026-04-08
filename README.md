@@ -125,12 +125,12 @@
 
 | &nbsp; | Project | Description | Tech Stack |
 |:------:|:--------|:------------|:-----------|
-| 🎭 | **[Role Based Chatbot](https://github.com/saqib-abdulraouf)** | AI chatbot with Doctor, Lawyer & Teacher personas using dynamic system prompts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 📰 | **[News AI Agent](https://github.com/saqib-abdulraouf)** | Fetches & summarizes global news using autonomous AI agents | ![API](https://img.shields.io/badge/GNews_API-009688?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 📖 | **[AI Study Assistant](https://github.com/saqib-abdulraouf)** | Chat with any PDF/TXT document — quiz generation & smart Q&A | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| 🎭 | **[Role Based Chatbot with Memory](https://github.com/saqib-abdulraouf/role-based-ai-chatbot-with-Memory)** | AI chatbot with Doctor, Lawyer & Teacher personas using dynamic system prompts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| 📰 | **[News AI Agent](https://github.com/saqib-abdulraouf/News-Fetching-AI-Agent-)** | Fetches & summarizes global news using autonomous AI agents | ![API](https://img.shields.io/badge/GNews_API-009688?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| 📖 | **[AI Study Assistant](https://github.com/saqib-abdulraouf/AI-Study-Assistant-)** | Chat with any PDF/TXT document — quiz generation & smart Q&A | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
 | 🔍 | **[Agentic RAG](https://github.com/saqib-abdulraouf)** | Smart document retrieval for large files using TF-IDF + RAG pipeline | ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
 | 📝 | **[MCQ Generator](https://github.com/saqib-abdulraouf)** | Auto-generates MCQs from any uploaded PDF with difficulty levels | ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| 🌐 | **[AI API](https://github.com/saqib-abdulraouf)** | Production-ready REST API with chat, translate & summarize endpoints | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| 🌐 | **[AI API](https://github.com/saqib-abdulraouf/FastAPI)** | Production-ready REST API with chat, translate & summarize endpoints | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
@@ -146,8 +146,6 @@
 <a href="https://github.com/saqib-abdulraouf">
   <img width="49%" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=FFFFFF" alt="GitHub Streak" />
 </a>
-
-<br/>
 
 <a href="https://github.com/saqib-abdulraouf">
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=C9D1D9&langs_count=5" alt="Top Languages" />
@@ -168,11 +166,11 @@
 <div align="center">
 
 <!-- TODO: Replace with your actual LinkedIn and Email -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/saqib-abdulraouf/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="saqibabdulraouf@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
