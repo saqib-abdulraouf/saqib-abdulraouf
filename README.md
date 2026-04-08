@@ -55,7 +55,7 @@
 🎓 <b>Institute:</b> PIAIC 
 💻 <b>Role:</b>      AI Engineer
 🔭 <b>Focus:</b>     Agentic AI
-🌐 <b>Stack:</b>     Python | FastAPI | Docker
+🌐 <b>Stack:</b>     Python | Claude Code | Agent Skill | Claude CoWork | FastAPI | Docker
 🤝 <b>Status:</b>    Open for Collaboration!
 </pre>
 </div>
