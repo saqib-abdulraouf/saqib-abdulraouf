@@ -153,7 +153,7 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=5" alt="Top Languages" />
 </a>
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=radical&no-frame=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&column=3&row=2&margin-w=20" alt="GitHub Trophies" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=15" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
