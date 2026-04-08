@@ -85,8 +85,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<br/>
-
 <div align="left">
 
 ### 💻 Core Languages & Frameworks
@@ -138,47 +136,30 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<!-- GitHub Stats & Streak side-by-side -->
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqib-abdulraouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="180" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=saqib-abdulraouf&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/saqib-abdulraouf">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=5" alt="Top Languages" />
+</a>
+<a href="https://github.com/saqib-abdulraouf">
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=radical&no-frame=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&column=3&row=2&margin-w=20" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
 
-<!-- Top Languages -->
 <a href="https://github.com/saqib-abdulraouf">
-  <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqib-abdulraouf&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/saqib-abdulraouf">
-  <img src="https://github-profile-trophy.vercel.app/?username=saqib-abdulraouf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/saqib-abdulraouf">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqib-abdulraouf&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
 </a>
 
 </div>
